@@ -1,3 +1,3 @@
-FooCoin (FOO)
+PoepCoin (POEP)
 
 Blah, blah, blah.
